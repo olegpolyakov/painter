@@ -1,7 +1,7 @@
 import Keyboard from '../system/Keyboard.js';
 import Mouse from '../system/Mouse.js';
+import Game from '../system/Game.js';
 
-import Game from './Game.js';
 import PainterGameWorld from './PainterGameWorld.js';
 
 export default class PainterGame extends Game {

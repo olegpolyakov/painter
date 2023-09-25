@@ -1,6 +1,6 @@
-import Vector2 from '../system/Vector2.js';
-import Sound from '../system/Sound.js';
-import Canvas2D from '../system/Canvas2D.js';
+import Vector2 from './Vector2.js';
+import Sound from './Sound.js';
+import Canvas2D from './Canvas2D.js';
 
 export default class Game {
     constructor({ canvas, width, height, assetsPath }) {
